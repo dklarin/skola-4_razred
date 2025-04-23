@@ -16,7 +16,7 @@ links_sjwp_1_literatura = {
 }
 
 links_pmu_2_kodovi = { 
-    'Flask-Server': 'ERqZL77q0_VKk4BX1Rrn080BZCpTaWhUm0qTSf43rpUZHg?e=SYPuRD'  
+    'Server-Klijent': 'EVsx9W26bLRJqWXdQ8vOXGwBmEkBq-OQzM2lD3MghQ3HVw'  
 }
 
 links_pmu_2_literatura = {    
