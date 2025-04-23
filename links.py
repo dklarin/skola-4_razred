@@ -24,5 +24,9 @@ links_pmu_2_literatura = {
 }
 
 links_wd_2_kodovi = {
-    'Konverter valuta (početak)': 'EQwgrl7g4EZDvUTNSX3QE4QB8Px_GyXbzajaM9MCD44vXQ'
+    'Konverter valuta (22.4.2025 - početak)': 'EQwgrl7g4EZDvUTNSX3QE4QB8Px_GyXbzajaM9MCD44vXQ',
+    'Konverter valuta (23.4.2025 - nastavak)': 'EcVk6b93nY5AjTLNUYRQusYBHz63QunSXldZDkloBVfckg'
 }
+
+
+
