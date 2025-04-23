@@ -28,5 +28,9 @@ links_wd_2_kodovi = {
     'Konverter valuta (23.4.2025 - nastavak)': 'EcVk6b93nY5AjTLNUYRQusYBHz63QunSXldZDkloBVfckg'
 }
 
+links_wd_2_literatura = {
+    'Konverter valuta': 'ERlZU4GhbZ5BqIjMzptnN0sBZv5Smm1S83KlZ2q57GDYCg'
+}
+
 
 

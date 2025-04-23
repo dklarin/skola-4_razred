@@ -69,7 +69,7 @@ def wd_2():
                             subject1=subject1,
                             subject2=subject2,                           
                             links_it=links_wd_2_kodovi,
-                            links_lit=links_sjwp_1_literatura
+                            links_lit=links_wd_2_literatura
                             )
 
 if __name__ == "__main__":
